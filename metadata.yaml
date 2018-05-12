@@ -1,0 +1,30 @@
+_repo: The-Duty-of-Submission-to-Civil-Authority-Disturbances_42331
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42331-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moor, J. F. (John Frewen)
+    alias: Moor, John Frewen
+    gutenberg_agent_id: '41633'
+    url: http://www.gutenberg.org/2009/agents/41633
+description: ''
+gutenberg_issued: '2013-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity and law'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BV'
+- !lcsh 'Sedition'
+- !lcsh 'Church and state -- England -- History -- 19th century'
+title: "The Duty of Submission to Civil Authority,\r\nA Sermon Preached in the Parish\
+  \ Church of Bradfield, Berkes, on Sunday, November 28, 1830, on Occasion of the\
+  \ Late Disturbances"
+url: http://www.gutenberg.org/ebooks/42331
